@@ -42,23 +42,3 @@ const company = {
 
 
 
-// practis
-/*
-const myslef = {x: 22, y: 5, z: 56, a: 78, b: 69}
-const {x, b} = myslef
-console.log(x, b)
-
-const myName = {name1: 'rasel', name2: 'alam', name3: 'junayed', nane4: 'hossain', name5: 'ahmed'}
-const {name1, name5} = myName
-console.log(name1, name5)
-
-const number = {f: 1, t: 45, h: 47, n: 65}
-const {f, n, t} = number
-console.log(f, n, t)
-
-const [p, q, m] = [1, 32, 37, 69, 78, 102]
-console.log(p, q, m)
-
-const [names1, names2] = ['rasel', 'alam', 'jubayed']
-console.log(names1, names2)
-*/
